@@ -9,9 +9,8 @@ int main(void)
     int a = rand() % 10 + 1;
     cout<< a << endl;
     cout << "Hello world\n ";
-    // local change
-    // 2nd change
-    // 3rd change
+    // local change test
+    // 2nd change test
     return 0;
 }
 
